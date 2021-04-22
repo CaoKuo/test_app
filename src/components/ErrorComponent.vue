@@ -1,12 +1,12 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div class="error">
+    <h1>error</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'Error'
 }
 </script>
 

@@ -1,14 +1,15 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div class="news">
+    <h1>text组件</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'newsText'
 }
 </script>
 
 <style>
+
 </style>
